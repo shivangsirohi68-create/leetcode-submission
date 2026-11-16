@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0069-sqrtx) |
 ## Newton's Method
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0013-roman-to-integer) |
 | [1021-remove-outermost-parentheses](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
