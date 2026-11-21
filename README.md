@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0410-split-array-largest-sum](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0013-roman-to-integer) |
 | [1021-remove-outermost-parentheses](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/1021-remove-outermost-parentheses) |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
