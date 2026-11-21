@@ -1,7 +1,7 @@
 
 class Solution {
 public:
-    bool solve(const string &s, int i, int j) {
+    bool solve( string &s, int i, int j) {
         if(i >= j) {
             return true;
         }
