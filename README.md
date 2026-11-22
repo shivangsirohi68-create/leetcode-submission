@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0013-roman-to-integer) |
 | [1021-remove-outermost-parentheses](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0013-roman-to-integer) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
