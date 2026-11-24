@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0162-find-peak-element) |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
