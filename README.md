@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0069-sqrtx) |
+| [1922-count-good-numbers](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/1922-count-good-numbers) |
 ## Newton's Method
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/shivangsirohi68-create/leetcode-submission/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
